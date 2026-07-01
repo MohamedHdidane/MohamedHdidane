@@ -2,24 +2,25 @@
 
 **Cybersecurity Engineer · Penetration Testing · Network Security**
 
-Engineering graduate specialized in Telecommunications with a focus on Cybersecurity.
-Interested in offensive security, Active Directory, network security, and malware development for research.
+Telecommunications engineering graduate specialized in cybersecurity.
+Focused on offensive security, red teaming, and network security — combining analytical rigor with hands-on exploitation.
 
 ---
 
 ## Currently Learning
 
-- Active Directory attacks & red teaming
-- Malware development (research)
+- Red teaming & offensive tooling
+- AI security
 - Cloud security
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python · Bash · PowerShell · C  
-**Tools:** Nmap · Wireshark · Burp Suite · Metasploit  
-**Platforms:** Linux · Docker · Git
+**Languages:** Python · C · Bash · PowerShell  
+**Security:** Nmap · Wireshark · Burp Suite · Metasploit · pfSense · Palo Alto · FortiGate  
+**Networking:** TCP/IP · VLAN · VPN · OSPF · BGP · SD-WAN · MPLS  
+**Platforms:** Linux · Windows Server · Docker · Git · EVE-NG · VirtualBox
 
 ---
 
@@ -29,18 +30,20 @@ Interested in offensive security, Active Directory, network security, and malwar
 |---|---|
 | [PTaaS Mythic C2 Agent](#) | Custom C2 agent built on the Mythic framework — graduation project |
 | [Active Directory Lab](#) | Home lab simulating AD attacks: Kerberoasting, Pass-the-Hash, BloodHound |
-| [Network Scanner](#) | Automated recon toolkit with Nmap integration and report generation |
-| [Malware Analysis Toolkit](#) | Static and dynamic analysis scripts for malware research |
+| [Network Security Audit](#) | ISO 27001 audit + MEHARI risk analysis on a simulated enterprise IS |
+| [Zero Trust Network Lab](#) | Multi-site network with NGFW (Palo Alto, FortiGate), Zero Trust & SD-WAN |
 
 ---
 
 ## Certifications
 
-- TOEIC 970/990
-- TryHackMe — [your path/rank]
+- Cisco CCNA1 · CCNA2 
+- Microsoft AZ-900 · SC-900 · MS-900 · DP-900 · AI-900
+- AWS Cloud Foundations
+
 
 ---
 
 ## Connect
 
-[LinkedIn](#) · [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/mohamed-hdidane) · [Email](mailto:muhammedhdidane@gmail.com)
